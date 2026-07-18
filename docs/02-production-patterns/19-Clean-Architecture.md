@@ -828,4 +828,4 @@ It ensures:
 
 Our LangGraph platform will follow these principles throughout its implementation.
 
-From this point forward, every component we build—configuration, logging, clients, services, graph, nodes, API, and deployment—will follow the architecture defined in this lesson.
+From this point forward, every component we build—configuration, logging, clients, services, graph, nodes, API, and deployment—will follow the architecture defined in this lession.
